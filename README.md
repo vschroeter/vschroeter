@@ -6,9 +6,9 @@ My [master thesis](https://github.com/vschroeter/VisCom-Thesis) arose from the p
 I've proposed some new sorting algorithms and visualization / layout techniques to improve the readability of those graphs, to go from the current commonly used cluttered visualization to a more comprehensible one:
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <a href="./imgs/ma_thesis/VisComComparison1.pdf" target="_blank"><img src="./imgs/ma_thesis/VisComComparison1.pdf" width="32%" style="vertical-align: middle;" /></a>
-  <a href="./imgs/ma_thesis/VisComComparison2.pdf" target="_blank"><img src="./imgs/ma_thesis/VisComComparison2.pdf" width="32%" style="vertical-align: middle;" /></a>
-  <a href="./imgs/ma_thesis/VisComComparison3.pdf" target="_blank"><img src="./imgs/ma_thesis/VisComComparison3.pdf" width="32%" style="vertical-align: middle;" /></a>
+  <a href="./imgs/ma_thesis/VisComComparison1.pdf" target="_blank"><img src="./imgs/ma_thesis/VisComComparison1.jpg" width="32%" style="vertical-align: middle;" /></a>
+  <a href="./imgs/ma_thesis/VisComComparison2.pdf" target="_blank"><img src="./imgs/ma_thesis/VisComComparison2.jpg" width="32%" style="vertical-align: middle;" /></a>
+  <a href="./imgs/ma_thesis/VisComComparison3.pdf" target="_blank"><img src="./imgs/ma_thesis/VisComComparison3.jpg" width="32%" style="vertical-align: middle;" /></a>
 </div>
 
 
