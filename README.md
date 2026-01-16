@@ -6,7 +6,7 @@ For some time now, I have been enthusiastic about the idea of making projects pu
 
 #### Battery Lifetime for Embedded Systems
 
-A tool to calculate the battery lifetime of battery-powered embedded systems with actually useful options to add sleep current, self-discharge, leakage currents, and multiple active phases:
+A [tool to calculate](https://vschroeter.github.io/battery-lifetime-calculator/) the battery lifetime of battery-powered embedded systems with actually useful options to add sleep current, self-discharge, leakage currents, and multiple active phases:
 [![Battery Lifetime Calculator](https://github.com/vschroeter/battery-lifetime-calculator/blob/master/docs/Screenshot_20260109.png?raw=true)](https://vschroeter.github.io/battery-lifetime-calculator/)
 
 Too often I found myself calculating the battery lifetime for different projects using Excel. 
@@ -21,10 +21,6 @@ I love building wooden furniture, half my home contains most diverse shelves and
 And again, I found myself calculating the cheapest possible combination of planks to buy from my local hardware store to build a planned piece of furniture.
 This tool finds exactly that (at least for a reasonable small problem size 😎).
 
-#### Virtual Linker Plugin for Obsidian
-
-If you're an [Obsidian](https://obsidian.md/) user, you might find my [Virtual Linker Plugin](https://github.com/vschroeter/obsidian-virtual-linker) useful.  
-
 ## Other cool stuff
 
 ### Python Projects
@@ -38,6 +34,9 @@ If you're an [Obsidian](https://obsidian.md/) user, you might find my [Virtual L
 - [Pakk Package Manager](https://github.com/icampus-wildau/pakk)
   A quite powerful package manager for multi-language projects and GitHub / GitLab as package registry. Originally designed for supporting the development on robotics applications using ROS 2. Pakk not only supports the easy installation of pakkages of different types, but also (auto-)starting / stopping of executable pakkages. 
 
+### Virtual Linker Plugin for Obsidian
+
+If you're an [Obsidian](https://obsidian.md/) user, you might find my [Virtual Linker Plugin](https://github.com/vschroeter/obsidian-virtual-linker) useful.  
 
 ### Fun Projects
 
