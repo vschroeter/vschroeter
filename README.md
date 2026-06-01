@@ -86,8 +86,12 @@ If you wanna read more about myself, feel free to check out my [Interview with "
 
 ## Publications
 
+- 2026 [VISCOM: Communication-Aware Graph Layout and Visual Abstraction for Message-Passing Communication Networks](https://doi.org/10.2312/cgvc.20261018):
+  - Valentin Schröter, Willy Scheibel, and Jürgen Döllner
+  - EG UK Computer Graphics & Visual Computing (2026)
+  - [doi:10.2312/cgvc.20261018](https://doi.org/10.2312/cgvc.20261018)
 - 2025 [A Graph Layout Evaluation System for Communication Graphs](https://doi.org/10.2312/evp.20251138):
-  -  Valentin Schröter, Willy Scheibel, and Jürgen Döllner.
+  -  Valentin Schröter, Willy Scheibel, and Jürgen Döllner
   -  27th EG Conference on Visualization (EuroVis '25)
   -  [doi:10.2312/evp.20251138](https://doi.org/10.2312/evp.20251138)
 - 2021 [NetSD: Remote Access to Integrated SD Cards of Embedded Devices](https://arxiv.org/abs/2109.15322):
